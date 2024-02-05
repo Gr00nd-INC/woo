@@ -61,7 +61,7 @@
 		"@wordpress/api-fetch": "wp-6.0",
 		"@wordpress/base-styles": "wp-6.0",
 		"@wordpress/blocks": "^11.17.0",
-		"@wordpress/components": "wp-6.0",
+		"@wordpress/components": "25.14.0",
 		"@wordpress/compose": "wp-6.0",
 		"@wordpress/core-data": "wp-6.0",
 		"@wordpress/data-controls": "wp-6.0",
