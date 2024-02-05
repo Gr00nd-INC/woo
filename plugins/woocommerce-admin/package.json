@@ -76,7 +76,7 @@
 		"@wordpress/keycodes": "wp-6.0",
 		"@wordpress/media-utils": "wp-6.0",
 		"@wordpress/notices": "wp-6.0",
-		"@wordpress/plugins": "wp-6.0",
+		"@wordpress/plugins": "6.16.0",
 		"@wordpress/primitives": "wp-6.0",
 		"@wordpress/url": "wp-6.0",
 		"@wordpress/viewport": "wp-6.0",
